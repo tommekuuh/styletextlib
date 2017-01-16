@@ -1,0 +1,2 @@
+# styletextlib
+a javascript library 
